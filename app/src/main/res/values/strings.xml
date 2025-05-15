@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Flag Finder</string>
+    <string name="restart">Restart</string>
+    <string name="find_the_flag">Find the flag</string>
+</resources>
